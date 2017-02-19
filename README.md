@@ -17,8 +17,8 @@
 
 | 언어교육원 | 박물관  | 법학관 | 상허기념도서관 | 의생명과학연구관 |
 | :--: | :--: | :--: | :--: | :--: |
-| ![building](https://github.com/dlehdanakf/KONKUK-UNIVERSITY-ICON/blob/master/PNG/accademy.png?raw=true) | ![building](https://github.com/dlehdanakf/KONKUK-UNIVERSITY-ICON/blob/master/PNG/museum.png?raw=true) | ![building](https://github.com/dlehdanakf/KONKUK-UNIVERSITY-ICON/blob/master/PNG/law.png?raw=true) | ![building](https://github.com/dlehdanakf/KONKUK-UNIVERSITY-ICON/blob/master/PNG/library.png?raw=true) | ![building](https://github.com/dlehdanakf/KONKUK-UNIVERSITY-ICON/blob/master/PNG/main.png?raw=true) |
-| 언어교육원 아카데미 | 박물관 | 글로벌융합대학 | 도서관 | 아이콘 없음 |
+| ![building](https://github.com/dlehdanakf/KONKUK-UNIVERSITY-ICON/blob/master/PNG/accademy.png?raw=true) | ![building](https://github.com/dlehdanakf/KONKUK-UNIVERSITY-ICON/blob/master/PNG/museum.png?raw=true) | ![building](https://github.com/dlehdanakf/KONKUK-UNIVERSITY-ICON/blob/master/PNG/law.png?raw=true) | ![building](https://github.com/dlehdanakf/KONKUK-UNIVERSITY-ICON/blob/master/PNG/library.png?raw=true) | ![building](https://github.com/dlehdanakf/KONKUK-UNIVERSITY-ICON/blob/master/PNG/medical_science.png?raw=true) |
+| 언어교육원 아카데미 | 박물관 | 글로벌융합대학 | 도서관 | 의학전문대학원 |
 
 | 생명과학관 | 동물생명과학관  | 입학정보관 | 산학협동관 | 수의학관 |
 | :--: | :--: | :--: | :--: | :--: |
@@ -30,10 +30,10 @@
 | ![building](https://github.com/dlehdanakf/KONKUK-UNIVERSITY-ICON/blob/master/PNG/newmillenium.png?raw=true) | ![building](https://github.com/dlehdanakf/KONKUK-UNIVERSITY-ICON/blob/master/PNG/architecture.png?raw=true) | ![building](https://github.com/dlehdanakf/KONKUK-UNIVERSITY-ICON/blob/master/PNG/realestate.png?raw=true) | ![building](https://github.com/dlehdanakf/KONKUK-UNIVERSITY-ICON/blob/master/PNG/literature.png?raw=true) | ![building](https://github.com/dlehdanakf/KONKUK-UNIVERSITY-ICON/blob/master/PNG/student_council.png?raw=true) |
 | 정보통신대학 | 건축대학 | 부동산대학 | 문과대학 | 총학생회 |
 
-| 공학관 | 신공학관  | 과학관 | 창의관 | 기숙사 |
+| 공학관 | 신공학관  | 과학관 | 창의관 | KU:L HOUSE |
 | :--: | :--: | :--: | :--: | :--: |
-| ![building](https://github.com/dlehdanakf/KONKUK-UNIVERSITY-ICON/blob/master/PNG/engineering.png?raw=true) | ![building](https://github.com/dlehdanakf/KONKUK-UNIVERSITY-ICON/blob/master/PNG/new_engineering.png?raw=true) | ![building](https://github.com/dlehdanakf/KONKUK-UNIVERSITY-ICON/blob/master/PNG/science.png?raw=true) | ![building](https://github.com/dlehdanakf/KONKUK-UNIVERSITY-ICON/blob/master/PNG/rotc.png?raw=true) | ![building](https://github.com/dlehdanakf/KONKUK-UNIVERSITY-ICON/blob/master/PNG/main.png?raw=true) |
-| 공과대학 | 소프트웨어융합학부 | 이과대학 | 신산업융합학과 | 아이콘없음 |
+| ![building](https://github.com/dlehdanakf/KONKUK-UNIVERSITY-ICON/blob/master/PNG/engineering.png?raw=true) | ![building](https://github.com/dlehdanakf/KONKUK-UNIVERSITY-ICON/blob/master/PNG/new_engineering.png?raw=true) | ![building](https://github.com/dlehdanakf/KONKUK-UNIVERSITY-ICON/blob/master/PNG/science.png?raw=true) | ![building](https://github.com/dlehdanakf/KONKUK-UNIVERSITY-ICON/blob/master/PNG/rotc.png?raw=true) | ![building](https://github.com/dlehdanakf/KONKUK-UNIVERSITY-ICON/blob/master/PNG/kul_house.png?raw=true) |
+| 공과대학 | 소프트웨어융합학부 | 이과대학 | 신산업융합학과 | 기숙사 |
 
 ### 번호가 없는 부대시설
 
